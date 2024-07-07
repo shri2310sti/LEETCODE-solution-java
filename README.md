@@ -29,5 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
