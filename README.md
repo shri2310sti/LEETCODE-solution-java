@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1293-three-consecutive-odds) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
