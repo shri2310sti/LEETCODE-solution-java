@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1207-delete-nodes-and-return-forest) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
