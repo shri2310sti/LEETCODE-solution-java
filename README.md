@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-build-a-matrix-with-conditions) |
+| [2803-modify-graph-edge-weights](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2803-modify-graph-edge-weights) |
 ## Topological Sort
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2803-modify-graph-edge-weights](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2803-modify-graph-edge-weights) |
 ## Counting
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2803-modify-graph-edge-weights) |
 ## Prefix Sum
 |  |
 | ------- |
