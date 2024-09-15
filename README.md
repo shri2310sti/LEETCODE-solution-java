@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1207-delete-nodes-and-return-forest) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0476-number-complement](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
