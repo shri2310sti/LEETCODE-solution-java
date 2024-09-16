@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
 | [0664-strange-printer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
