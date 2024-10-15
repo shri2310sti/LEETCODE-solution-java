@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2502-sort-the-people) |
+| [3195-separate-black-and-white-balls](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Tree
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
