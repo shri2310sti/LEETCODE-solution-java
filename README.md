@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-build-a-matrix-with-conditions) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2411-spiral-matrix-iv) |
 | [2846-robot-collisions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2846-robot-collisions) |
 ## Math
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2794-maximum-number-of-moves-in-a-grid) |
