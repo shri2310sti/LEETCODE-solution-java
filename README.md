@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1972-rotating-the-box) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1304-longest-happy-string) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1917-maximum-average-pass-ratio) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1325-path-with-maximum-probability) |
+| [1917-maximum-average-pass-ratio](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
