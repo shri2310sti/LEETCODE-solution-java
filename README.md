@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1197-parsing-a-boolean-expression) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2846-robot-collisions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2846-robot-collisions) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
 |  |
