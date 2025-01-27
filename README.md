@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1558-course-schedule-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2803-modify-graph-edge-weights) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1558-course-schedule-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1558-course-schedule-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-build-a-matrix-with-conditions) |
 ## Dynamic Programming
 |  |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
