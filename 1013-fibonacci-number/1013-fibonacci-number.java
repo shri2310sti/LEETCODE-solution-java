@@ -6,7 +6,7 @@ class Solution {
         if(n==0){
             return 0;
         }
-        int ans = fib(n-1) + fib(n-2);
-        return ans;
+        
+        return fib(n-1) + fib(n-2);
     }
 }
