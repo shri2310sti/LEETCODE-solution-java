@@ -1,16 +1,12 @@
 class Solution {
     public int fib(int n) {
-        int a = 1, b = 1;
-        int next = 0;
-
-        if(n == 1 || n ==2){
+        if(n==1){
             return 1;
         }
-        for(int i = 3; i<=n; i++){
-            next = a + b;
-            a = b;
-            b = next;
+        if(n==0){
+            return 0;
         }
-        return next;
+        int ans = fib(n-1) + fib(n-2);
+        return ans;
     }
 }
