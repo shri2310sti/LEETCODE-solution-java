@@ -3,9 +3,8 @@ class Solution {
         int i = 0;
         for(int j = i+1; j<nums.length; j++){
             if(nums[i] != nums[j]){
-                
-                nums[i+1] = nums[j];
                 i++;
+                nums[i] = nums[j];
             }
         }
         return i+1;
