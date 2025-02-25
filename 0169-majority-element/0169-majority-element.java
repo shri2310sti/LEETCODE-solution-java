@@ -1,24 +1,27 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 class Solution {
     public int majorityElement(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        int n = nums.length / 2;
+        int candidate = 0, count = 0;
 
-        for (int i = 0; i < nums.length; i++) {
-            if (map.containsKey(nums[i])) {
-                map.put(nums[i], map.get(nums[i]) + 1);
+        for (int num : nums) {
+            if (count == 0) {
+                candidate = num;
+            }
+            if (num == candidate) {
+                count += 1;  
             } else {
-                map.put(nums[i], 1);
+                count -= 1;  
             }
         }
 
-        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (entry.getValue() > n) {
-                return entry.getKey(); 
+        count = 0;
+        for (int num : nums) {
+            if (num == candidate) {
+                count++;
             }
         }
-        return -1; 
+
+        return (count > nums.length / 2) ? candidate : -1;
     }
 }
