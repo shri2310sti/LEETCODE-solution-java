@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0952-word-subsets) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1063-best-sightseeing-pair) |
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
