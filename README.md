@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2502-sort-the-people) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
