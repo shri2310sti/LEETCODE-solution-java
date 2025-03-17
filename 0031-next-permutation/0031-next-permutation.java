@@ -16,9 +16,7 @@ class Solution {
 
         for(int i = n-1; i>=idx; i--){
             if(nums[i] > nums[idx]){
-                int temp = nums[i];
-                nums[i] = nums[idx];
-                nums[idx] = temp;
+                swap(nums, i, idx);
                 break;
             }
         }
