@@ -1,34 +1,30 @@
 class Solution {
     public void nextPermutation(int[] nums) {
+        int idx = -1;
         int n = nums.length;
-        if (n <= 1) return;
-
-        // Step 1: Find the longest non-increasing suffix
-        int i = n - 2;
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
-        }
-
-        // Step 2: If the entire array is non-increasing, reverse it
-        if (i >= 0) {
-            // Step 3: Find the successor to pivot
-            int j = n - 1;
-            while (nums[j] <= nums[i]) {
-                j--;
+        for(int i = n-2; i>=0; i--){
+            if(nums[i] < nums[i+1]){
+                idx = i;
+                break;
             }
-
-            // Step 4: Swap the pivot with the successor
-            swap(nums, i, j);
         }
 
-        // Step 5: Reverse the suffix
-        reverse(nums, i + 1, n - 1);
-    }
+        if(idx == -1) {
+            Arrays.sort(nums);
+            return;
+        }
 
-    private void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
+        for(int i = n-1; i>=idx; i--){
+            if(nums[i] > nums[idx]){
+                int temp = nums[i];
+                nums[i] = nums[idx];
+                nums[idx] = temp;
+                break;
+            }
+        }
+
+       reverse(nums, idx + 1, n - 1);
+
     }
 
     private void reverse(int[] nums, int start, int end) {
@@ -37,5 +33,10 @@ class Solution {
             start++;
             end--;
         }
+    }
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
