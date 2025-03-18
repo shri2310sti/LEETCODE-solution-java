@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
