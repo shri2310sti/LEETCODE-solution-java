@@ -2,63 +2,47 @@ class Solution {
     public void setZeroes(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
-        
-        boolean firstRowZero = false;
-        boolean firstColZero = false;
-        
-        // Check if the first row has any zeroes
+
+        int marker = Integer.MIN_VALUE -10; 
+
+
+        for(int i = 0; i<m; i++){
+            for(int j = 0; j < n; j++){
+                if(matrix[i][j] == 0){
+                    setMatrix(matrix, i, j, m, n, marker);
+                }
+            }
+        }
+        for(int i = 0; i<m; i++){
+            for(int j = 0; j < n; j++){
+                if(matrix[i][j] == marker){
+                    matrix[i][j] = 0;
+                }
+            }
+        }
+    }
+
+    // public void setMatrix(int[][] matrix, int i1, int j2, int m, int n, int marker){
+    //     for(int i = 0; i < n; i++){
+    //         matrix[i1][i] = marker;
+    //     }
+    //     for(int i = 0; i < m; i++){
+    //         matrix[i][j2] = marker;
+    //     }
+    // }
+
+    public void setMatrix(int[][] matrix, int row, int col, int m, int n, int marker) {
+        // Mark entire row
         for (int j = 0; j < n; j++) {
-            if (matrix[0][j] == 0) {
-                firstRowZero = true;
-                break;
+            if (matrix[row][j] != 0) { 
+                matrix[row][j] = marker;
             }
         }
-        
-        // Check if the first column has any zeroes
+
+        // Mark entire column
         for (int i = 0; i < m; i++) {
-            if (matrix[i][0] == 0) {
-                firstColZero = true;
-                break;
-            }
-        }
-        
-        // Use first row and first column as markers
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
-                }
-            }
-        }
-        
-        // Zero out cells based on markers
-        for (int i = 1; i < m; i++) {
-            if (matrix[i][0] == 0) {
-                for (int j = 1; j < n; j++) {
-                    matrix[i][j] = 0;
-                }
-            }
-        }
-        
-        for (int j = 1; j < n; j++) {
-            if (matrix[0][j] == 0) {
-                for (int i = 1; i < m; i++) {
-                    matrix[i][j] = 0;
-                }
-            }
-        }
-        
-        // Finally, zero out the first row and first column if needed
-        if (firstRowZero) {
-            for (int j = 0; j < n; j++) {
-                matrix[0][j] = 0;
-            }
-        }
-        
-        if (firstColZero) {
-            for (int i = 0; i < m; i++) {
-                matrix[i][0] = 0;
+            if (matrix[i][col] != 0) {
+                matrix[i][col] = marker;
             }
         }
     }
