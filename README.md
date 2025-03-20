@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1364-tuple-with-same-product) |
