@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
