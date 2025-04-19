@@ -2,45 +2,39 @@ import java.util.Arrays;
 
 class Solution {
     public long countFairPairs(int[] nums, int lower, int upper) {
-        Arrays.sort(nums);
+        Arrays.sort(nums); // Step 1: Sort the array
         long count = 0;
+        int n = nums.length;
         
-        for (int i = 0; i < nums.length - 1; i++) {
-            int left = findLowerBound(nums, i + 1, nums.length, lower - nums[i]);
-            int right = findUpperBound(nums, i + 1, nums.length, upper - nums[i]);
-            
-            // The number of valid pairs with nums[i] as the first element
-            count += right - left;
+        for (int i = 0; i < n; i++) {
+            // Step 2: Use binary search to find valid range for j > i
+            int left = lowerBound(nums, i + 1, n - 1, lower - nums[i]);
+            int right = upperBound(nums, i + 1, n - 1, upper - nums[i]);
+            count += (right - left);
         }
         
         return count;
     }
-
-    // Finds the first index where nums[index] >= target
-    private int findLowerBound(int[] nums, int start, int end, int target) {
-        int left = start, right = end;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] >= target) {
-                right = mid;
-            } else {
-                left = mid + 1;
-            }
+    
+    // Finds first index where nums[index] >= target
+    private int lowerBound(int[] nums, int start, int end, int target) {
+        int low = start, high = end + 1;
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (nums[mid] < target) low = mid + 1;
+            else high = mid;
         }
-        return left;
+        return low;
     }
 
-    // Finds the first index where nums[index] > target
-    private int findUpperBound(int[] nums, int start, int end, int target) {
-        int left = start, right = end;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (nums[mid] > target) {
-                right = mid;
-            } else {
-                left = mid + 1;
-            }
+    // Finds first index where nums[index] > target
+    private int upperBound(int[] nums, int start, int end, int target) {
+        int low = start, high = end + 1;
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (nums[mid] <= target) low = mid + 1;
+            else high = mid;
         }
-        return left;
+        return low;
     }
 }
