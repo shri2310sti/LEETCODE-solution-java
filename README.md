@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1002-maximum-width-ramp) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
+| [0945-snakes-and-ladders](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1396-count-servers-that-communicate) |
