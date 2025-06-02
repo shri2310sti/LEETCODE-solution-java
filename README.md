@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0189-rotate-array) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
