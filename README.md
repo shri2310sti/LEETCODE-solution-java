@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3451-string-compression-iii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Tree
 |  |
 | ------- |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3548-find-the-count-of-good-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
 | ------- |
