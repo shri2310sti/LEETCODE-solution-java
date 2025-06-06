@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0258-add-digits) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0273-integer-to-english-words) |
@@ -923,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0258-add-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3001-apply-operations-to-maximize-score) |
