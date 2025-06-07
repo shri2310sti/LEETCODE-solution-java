@@ -1,6 +1,6 @@
 class Solution {
     public int climbStairs(int n) {
-        if (n <= 2) return n; // Base cases: n=1 returns 1, n=2 returns 2
+        if (n <= 2) return n; 
         
         int prev1 = 1; // Ways to climb 1 step
         int prev2 = 2; // Ways to climb 2 steps
