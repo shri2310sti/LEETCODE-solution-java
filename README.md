@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0264-ugly-number-ii) |
@@ -1082,4 +1083,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3637-count-number-of-balanced-permutations) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
