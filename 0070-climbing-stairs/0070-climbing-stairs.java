@@ -1,23 +1,17 @@
 class Solution {
     public int climbStairs(int n) {
-         if (n <= 1)
-            return 1;
+        if (n <= 2) return n; // Base cases: n=1 returns 1, n=2 returns 2
         
-        // Array to store the number of ways to reach each step
-        int[] dp = new int[n + 1];
+        int prev1 = 1; // Ways to climb 1 step
+        int prev2 = 2; // Ways to climb 2 steps
+        int current = 0;
         
-        // Base cases
-        dp[0] = 1; // There's one way to reach step 0 (by not taking any steps)
-        dp[1] = 1; // There's one way to reach step 1 (by taking 1 step)
-        
-        // Iterate from step 2 to step n
-        for (int i = 2; i <= n; i++) {
-            // The number of ways to reach step i is the sum of the number of ways to reach
-            // the previous two steps
-            dp[i] = dp[i - 1] + dp[i - 2];
+        for (int i = 3; i <= n; i++) {
+            current = prev1 + prev2; // Ways to climb i steps
+            prev1 = prev2;           // Shift prev2 to prev1
+            prev2 = current;         // Shift current to prev2
         }
         
-        // The result will be the number of ways to reach the nth step
-        return dp[n];
+        return current;
     }
 }
