@@ -4,7 +4,7 @@ class Solution {
         int n = nums.length;
         
         for (int i = 0; i < n; i++) {
-            if (nums[i] > nums[(i + 1) % n]) { // Check if the array is out of order
+            if (nums[i] > nums[(i + 1) % n]) { 
                 count++;
             }
             if (count > 1) {
