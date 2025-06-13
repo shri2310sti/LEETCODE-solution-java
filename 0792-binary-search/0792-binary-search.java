@@ -9,7 +9,6 @@ class Solution {
         if(nums[mid] == target) return mid;
         else if (nums[mid] < target) return binarysearch(nums, mid+1, high, target);
         else return binarysearch(nums, low, mid-1, target);
-        
     }
 }
     
