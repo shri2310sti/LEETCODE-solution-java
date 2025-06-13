@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2792-neighboring-bitwise-xor) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3427-special-array-ii) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3195-separate-black-and-white-balls) |
