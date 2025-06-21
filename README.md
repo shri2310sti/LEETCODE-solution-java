@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0952-word-subsets) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
