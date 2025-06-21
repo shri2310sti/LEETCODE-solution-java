@@ -1,38 +1,38 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int left = 1;  // Minimum possible eating speed
-        int right = getMaxPile(piles);  // Maximum possible eating speed (largest pile)
 
-        while (left < right) {
-            int mid = left + (right - left) / 2;  // Mid-point of current bounds
-            if (canEatAllBananas(piles, mid, h)) {
-                right = mid;  // Try to find a slower speed if possible
-            } else {
-                left = mid + 1;  // Increase speed because mid is too slow
-            }
+        int maxPile = Integer.MIN_VALUE;
+        for(int i = 0; i < piles.length; i++){
+            if(maxPile < piles[i]) maxPile = piles[i];
         }
+
         
-        return left;  // Minimum eating speed to finish within h hours
-    }
+        // for(int i = 1; i <= maxPile; i++){
+        //     int RequiredTime = totalTime(piles,i);
+        //     if(RequiredTime <= h) return i; 
+        // }
 
-    // Helper function to find the maximum number of bananas in a single pile
-    private int getMaxPile(int[] piles) {
-        int maxPile = 0;
-        for (int pile : piles) {
-            maxPile = Math.max(maxPile, pile);
-        }
-        return maxPile;
-    }
+        int low = 1, high = maxPile;
+        int ans = Integer.MAX_VALUE;
 
-    // Helper function to determine if Koko can eat all bananas with speed k in h hours
-    private boolean canEatAllBananas(int[] piles, int k, int h) {
-        int hoursNeeded = 0;
-        for (int pile : piles) {
-            hoursNeeded += (pile + k - 1) / k;  // Equivalent to Math.ceil(pile / (double)k)
-            if (hoursNeeded > h) {
-                return false;  // If hours exceed h, k is too slow
+        while(low <= high){
+            int mid = (low + high) / 2;
+            int RequiredTime = totalTime(piles, mid);
+            if(RequiredTime <= h) {
+                ans = Math.min(ans, mid);
+                high = mid - 1;
             }
+            else low = mid + 1;
+
+
         }
-        return true;  // k is sufficient
+        return ans;
+    }
+    public int totalTime(int[] arr, int hourly){
+        int totalhrs = 0;
+        for(int i = 0; i < arr.length; i++){
+            totalhrs += Math.ceil((double)(arr[i]) / (double)(hourly));
+        }
+        return totalhrs;
     }
 }
