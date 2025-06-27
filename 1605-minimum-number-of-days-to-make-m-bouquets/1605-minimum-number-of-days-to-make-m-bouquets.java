@@ -1,36 +1,51 @@
 class Solution {
-  public int minDays(int[] bloomDay, int m, int k) {
-    if (bloomDay.length < (long) m * k)
-      return -1;
+    public int minDays(int[] bloomDay, int m, int k) {
+        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
 
-    int l = Arrays.stream(bloomDay).min().getAsInt();
-    int r = Arrays.stream(bloomDay).max().getAsInt();
+        for(int i = 0; i < bloomDay.length; i++){
+            if(max < bloomDay[i]) max = bloomDay[i];
+        }
 
-    while (l < r) {
-      final int mid = (l + r) / 2;
-      if (getBouquetCount(bloomDay, k, mid) >= m)
-        r = mid;
-      else
-        l = mid + 1;
+        for(int i = 0; i < bloomDay.length; i++){
+            if(min > bloomDay[i]) min = bloomDay[i];
+        }
+
+        if(bloomDay.length < m*k) return -1;
+
+
+        // //Linear Search
+        // for(int i = min; i <= max; i++){
+        //     if(possible(bloomDay, i, m, k)) return i;
+        // }
+
+        // //Binary Search
+        int low = min, high = max;
+        int ans = -1;
+        while(low <= high){
+            int mid = (low + high) / 2;
+            if(possible(bloomDay, mid, m, k)) {
+                ans = mid;
+                high = mid - 1;
+            }
+            else low = mid + 1;
+        }
+        return ans;
     }
+    static boolean possible(int[] bloomday, int day, int m, int k){
+        int count = 0;
+        int noOfBouquet = 0;
+        for(int i = 0; i < bloomday.length; i++){
+            if(bloomday[i] <= day){
+                count++;
+            }else{
+                noOfBouquet += (count / k);
+                count = 0;
 
-    return l;
-  }
-
-  // Returns the number of bouquets (k flowers needed) can be made after the
-  // `waitingDays`..
-  private int getBouquetCount(int[] bloomDay, int k, int waitingDays) {
-    int bouquetCount = 0;
-    int requiredFlowers = k;
-    for (final int day : bloomDay)
-      if (day > waitingDays) {
-        // Reset `requiredFlowers` since there was not enough adjacent flowers.
-        requiredFlowers = k;
-      } else if (--requiredFlowers == 0) {
-        // Use k adjacent flowers to make a bouquet.
-        ++bouquetCount;
-        requiredFlowers = k;
-      }
-    return bouquetCount;
-  }
+            }
+        }
+        noOfBouquet += (count / k);
+        if(noOfBouquet >= m) return true;
+        else return false;
+    }
 }
