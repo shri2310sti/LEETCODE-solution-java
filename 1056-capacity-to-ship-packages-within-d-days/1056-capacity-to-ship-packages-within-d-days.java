@@ -15,6 +15,7 @@ class Solution {
 
         //Bianry Search
         int low = max, high = sum;
+        int ans = 0;
         
         while(low <= high){
             int mid = (low + high) / 2;
@@ -23,7 +24,7 @@ class Solution {
                 low = mid + 1;
             }
             else {
-                
+                ans = mid;
                 high = mid - 1;
             }
         }
