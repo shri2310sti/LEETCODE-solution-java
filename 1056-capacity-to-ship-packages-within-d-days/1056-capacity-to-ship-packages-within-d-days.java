@@ -28,8 +28,9 @@ class Solution {
                 high = mid - 1;
             }
         }
-        return ans;
+        return ans; // can return low directly
     }
+    
     static int days(int[] weights, int capacity){
         int day = 1;
         int load = 0;
