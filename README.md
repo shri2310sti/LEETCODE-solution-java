@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0729-my-calendar-i) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0670-maximum-swap) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0650-2-keys-keyboard) |
@@ -938,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
