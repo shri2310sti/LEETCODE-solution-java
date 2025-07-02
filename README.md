@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0033-search-in-rotated-sorted-array) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
