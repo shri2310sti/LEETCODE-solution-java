@@ -1,6 +1,18 @@
 class Solution {
     public String reverseWords(String s) {
-        s = s.trim();
+    //    String[] words = s.split("\\s+");
+    //     StringBuilder res = new StringBuilder();
+
+    //     for (int i = words.length - 1; i >= 0; i--) {
+    //         res.append(words[i]);
+    //         if (i != 0) {
+    //             res.append(" ");
+    //         }
+    //     }
+
+    //     return res.toString().trim();
+
+     s = s.trim();
 
         ArrayList <String> str = new ArrayList<>();
 
@@ -18,12 +30,15 @@ class Solution {
         }
         str.add(el);
 
-        Collections.reverse(str);
+        
         String result = "";
-        for(int i = 0; i < str.size(); i++){
-            if(i == str.size() - 1) return  result += str.get(i);
+        for(int i = str.size() - 1; i >= 0; i--){
+            if(i == 0) return  result += str.get(i);
             result += str.get(i) + " ";
         }
         return result;
+    
     }
+
+    
 }
