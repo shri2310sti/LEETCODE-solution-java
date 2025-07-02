@@ -13,16 +13,14 @@ class Solution {
     //     return res.toString().trim();
 
     s = s.trim();
-     String[] str = s.split("\\s+");
+    String[] str = s.split("\\s+");
 
-        
-        String result = "";
-        for(int i = str.length - 1; i >= 0; i--){
-            result += str[i];
-            if(i != 0) result += " ";
-            
-        }
-        return result;
+    StringBuilder res = new StringBuilder();
+    for(int i = str.length - 1; i >= 0; i--){
+        res.append(str[i]);
+        if(i != 0) res.append(" ");
+    }
+    return res.toString();
     
     }
 
