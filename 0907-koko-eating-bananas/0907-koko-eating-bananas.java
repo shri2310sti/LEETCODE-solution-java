@@ -9,11 +9,11 @@ class Solution {
         // }
         
         int low = 1, high = maxPile;
-        int ans = 0;
+        int ans = Integer.MAX_VALUE;
         while(low <= high){
             int mid = (low + high)/2;
             if(func(piles, mid) <= h){
-                ans = mid;
+                ans =  Math.min(ans, mid);
                 high = mid - 1;
             } else low = mid + 1;
         }
