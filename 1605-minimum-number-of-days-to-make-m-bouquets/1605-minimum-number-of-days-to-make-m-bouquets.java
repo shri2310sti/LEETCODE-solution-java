@@ -5,9 +5,6 @@ class Solution {
 
         for(int i = 0; i < bloomDay.length; i++){
             if(max < bloomDay[i]) max = bloomDay[i];
-        }
-
-        for(int i = 0; i < bloomDay.length; i++){
             if(min > bloomDay[i]) min = bloomDay[i];
         }
 
