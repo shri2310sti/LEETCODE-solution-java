@@ -1,37 +1,27 @@
 class Solution {
     public String longestPalindrome(String s) {
-        int n = s.length();
-        boolean[][] dp = new boolean[n][n];
-        
-        // Initialize dp array for single characters
-        for (int i = 0; i < n; i++) {
-            dp[i][i] = true;
-        }
-        
-        int start = 0;
-        int maxLength = 1;
-        
-        // Check for substrings of length 2
-        for (int i = 0; i < n - 1; i++) {
-            if (s.charAt(i) == s.charAt(i + 1)) {
-                dp[i][i + 1] = true;
-                start = i;
-                maxLength = 2;
+        if(s.length() < 1 || s == null) return "";
+
+        int start = 0, end = 0;
+        for(int i = 0; i < s.length(); i++){
+
+            int len1 = expandAroundcentre(s, i, i); // odd
+            int len2 = expandAroundcentre(s, i, i + 1); // even 
+            int len = Math.max(len1, len2);
+
+            if(len > (end - start)){
+                start = (i - ((len - 1) / 2)); 
+                end = i + (len/ 2);
             }
         }
-        
-        // Check for substrings of length 3 or more
-        for (int len = 3; len <= n; len++) {
-            for (int i = 0; i < n - len + 1; i++) {
-                int j = i + len - 1;
-                if (s.charAt(i) == s.charAt(j) && dp[i + 1][j - 1]) {
-                    dp[i][j] = true;
-                    start = i;
-                    maxLength = len;
-                }
-            }
+        return s.substring(start, end + 1);
+    }
+
+    private static int expandAroundcentre(String s, int left, int right){
+        while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
         }
-        
-        return s.substring(start, start + maxLength);
+        return right - left - 1;
     }
 }
