@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2502-sort-the-people) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2554-minimum-total-distance-traveled) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2411-spiral-matrix-iv) |
+| [2479-meeting-rooms-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -990,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2616-maximal-score-after-applying-k-operations) |
