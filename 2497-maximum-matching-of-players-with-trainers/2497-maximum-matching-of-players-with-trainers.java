@@ -5,10 +5,19 @@ class Solution {
     Arrays.sort(players);
     Arrays.sort(trainers);
 
-    for (int i = 0; i < trainers.length; ++i)
-      if (players[ans] <= trainers[i] && ++ans == players.length)
-        return ans;
+    int i = 0; 
+    int j = 0;
+    int count = 0;
 
-    return ans;
+    while (i < players.length && j < trainers.length) {
+      if (players[i] <= trainers[j]) {
+        count++; // match found
+        i++;
+        j++;
+      } 
+      else j++; // try next trainer
+    }
+
+    return count;
   }
 }
