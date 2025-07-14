@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2411-spiral-matrix-iv) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1500-count-largest-group) |
