@@ -4,27 +4,21 @@ class Solution {
     public int beautySum(String s) {
         int sum = 0;
         for(int i = 0; i < s.length(); i++){
-            for(int j = i + 1; j <= s.length(); j++){
-                sum += beauty(s.substring(i, j));
+            int[] arr = new int[26];
+            for(int j = i; j < s.length(); j++){
+                arr[s.charAt(j) - 'a']++;
+                int maxFreq = Integer.MIN_VALUE, minFreq = Integer.MAX_VALUE;
+                for(int k = 0; k < 26; k++){
+                    if(arr[k] > 0){
+                        maxFreq = Math.max(maxFreq, arr[k]);
+                        minFreq = Math.min(minFreq, arr[k]);
+                    }
+                }
+                if(maxFreq == Integer.MIN_VALUE || minFreq == Integer.MAX_VALUE) sum += 0; else {
+                    sum += (maxFreq - minFreq);
+                }
             }
         }
         return sum;
-    }
-    private static int beauty(String s){
-        int[] arr = new int[26];
-        for(int i = 0; i < s.length(); i++){
-            arr[s.charAt(i) - 'a']++;
-        }
-        int maxFreq = Integer.MIN_VALUE;
-        int minFreq = Integer.MAX_VALUE;
-
-        for(int i = 0; i < 26; i++){
-            if(arr[i] > 0){
-                maxFreq = Math.max(maxFreq, arr[i]);
-                minFreq = Math.min(minFreq, arr[i]);
-            }
-        }
-        if(maxFreq == Integer.MIN_VALUE || minFreq == Integer.MAX_VALUE) return 0;
-        return (maxFreq - minFreq);
     }
 }
