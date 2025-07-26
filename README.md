@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Game Theory
 |  |
 | ------- |
@@ -1151,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1216,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String Matching
 |  |
 | ------- |
