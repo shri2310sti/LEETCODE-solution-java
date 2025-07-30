@@ -20,7 +20,7 @@ class Solution {
        ListNode first = head, second = newHead;
        while(second != null){
             if(first.val != second.val) {
-                reverse(newHead);
+                // reverse(newHead);
                 return false;
             }
             first = first.next;
