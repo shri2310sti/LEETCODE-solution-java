@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0075-sort-colors) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0234-palindrome-linked-list) |
