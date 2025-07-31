@@ -28,30 +28,38 @@ class Solution {
         }
         return slow;
     }
-    private static ListNode mergeSortedList(ListNode head1, ListNode head2){
-        ListNode t1 = head1, t2 = head2;
+    private static ListNode mergeSortedList(ListNode t1, ListNode t2){
+        
         ListNode dummyNode = new ListNode(-1);
         ListNode temp = dummyNode;
         while(t1 != null && t2 != null){
             if(t1.val < t2.val) {
                 temp.next = t1;
-                temp = t1;
+                // temp = t1;
                 t1 = t1.next;
             }else {
                 temp.next = t2;
-                temp = t2;
+                // temp = t2;
                 t2 = t2.next;
             }
+            temp = temp.next;
         }
-        while(t1 != null){
+
+        // while(t1 != null){
+        //     temp.next = t1;
+        //     temp = t1;
+        //     t1 = t1.next;
+        // }
+        // while(t2 != null){
+        //     temp.next = t2;
+        //     temp = t2;
+        //     t2 = t2.next;
+        // }
+
+        if(t1 != null){
             temp.next = t1;
-            temp = t1;
-            t1 = t1.next;
-        }
-        while(t2 != null){
-            temp.next = t2;
-            temp = t2;
-            t2 = t2.next;
+        } else{
+            temp.next=t2;
         }
         return dummyNode.next;
     }
