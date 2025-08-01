@@ -22,11 +22,10 @@ class Solution {
        return head;
     }
     private static int size(ListNode head){ 
-        ListNode temp = head;
         int cnt = 0;
-        while(temp != null){
+        while(head != null){
             cnt++;
-            temp = temp.next;
+            head = head.next;
         }
         return cnt;
     }
