@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3647-zero-array-transformation-iii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3227-find-missing-and-repeated-values) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
 | ------- |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3618-find-the-original-typed-string-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3637-count-number-of-balanced-permutations) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
 |  |
 | ------- |
