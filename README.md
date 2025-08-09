@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0223-rectangle-area) |
+| [0231-power-of-two](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0264-ugly-number-ii) |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0273-integer-to-english-words) |
@@ -1129,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0934-bitwise-ors-of-subarrays) |
