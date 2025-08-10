@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0780-max-chunks-to-make-sorted) |
+| [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1013-fibonacci-number) |
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1267,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
