@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2023-design-movie-rental-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2023-design-movie-rental-system) |
 | [2047-find-a-peak-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -1163,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1303,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3827-implement-router) |
@@ -1320,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
+| [2023-design-movie-rental-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2023-design-movie-rental-system) |
 | [3678-design-task-manager](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3791-fruits-into-baskets-iii) |
