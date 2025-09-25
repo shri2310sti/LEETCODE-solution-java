@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -991,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0264-ugly-number-ii) |
