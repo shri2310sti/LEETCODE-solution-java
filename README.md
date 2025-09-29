@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0165-compare-version-numbers) |
