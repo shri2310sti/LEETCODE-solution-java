@@ -8,11 +8,11 @@ class Pair {
 
 class MinStack {
 
-    Stack<Pair> st = new Stack<>();
+    Stack<Pair> st;
 
-    // public MinStack() {
-    //     st = new Stack<>();
-    // }
+    public MinStack() {
+        st = new Stack<>();
+    }
     
     public void push(int val) {
         int min;
