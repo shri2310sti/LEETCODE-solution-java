@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -1320,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
@@ -1353,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
