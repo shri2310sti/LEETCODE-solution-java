@@ -1,4 +1,6 @@
 class Solution {
+    // TC Total: O(n + m), SC : O(n)
+
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         Stack<Integer> s = new Stack<>();
         Map<Integer, Integer> map = new HashMap<>();
