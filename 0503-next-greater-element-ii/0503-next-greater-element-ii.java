@@ -3,7 +3,9 @@ class Solution {
         Stack<Integer> s = new Stack<>();
         int[] arr = new int[nums.length];
 
-        Arrays.fill(arr, -1);
+        for(int i=0;i<arr.length;i++){
+            arr[i]=-1;
+        }
 
         for(int i = 2*nums.length-1; i >= 0; i--){
             while(!s.isEmpty() && nums[i%nums.length] >= s.peek())s.pop();
