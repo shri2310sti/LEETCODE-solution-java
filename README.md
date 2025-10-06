@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0945-snakes-and-ladders) |
@@ -1143,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1196,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1325-path-with-maximum-probability) |
@@ -1476,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1396-count-servers-that-communicate) |
