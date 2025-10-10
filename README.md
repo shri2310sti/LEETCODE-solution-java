@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0054-spiral-matrix) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0141-linked-list-cycle) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0225-implement-stack-using-queues) |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0070-climbing-stairs) |
@@ -1432,6 +1436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0780-max-chunks-to-make-sorted) |
