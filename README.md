@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3647-zero-array-transformation-iii) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3427-special-array-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3791-fruits-into-baskets-iii) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1281,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3647-zero-array-transformation-iii) |
@@ -1444,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Stack
 |  |
