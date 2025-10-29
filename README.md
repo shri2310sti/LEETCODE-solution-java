@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1344,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3394-minimum-array-end](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Number Theory
