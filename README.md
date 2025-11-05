@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3678-design-task-manager](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3678-design-task-manager) |
@@ -1277,6 +1279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3678-design-task-manager) |
@@ -1479,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
