@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0498-diagonal-traverse) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0664-strange-printer) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0664-strange-printer) |
