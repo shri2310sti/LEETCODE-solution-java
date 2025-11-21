@@ -1,35 +1,27 @@
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
     public int countPalindromicSubsequence(String s) {
         int n = s.length();
-        int[] leftCount = new int[26];
-        int[] rightCount = new int[26];
-
-        // Count occurrences of each character in the string
-        for (int i = 0; i < n; i++) {
-            rightCount[s.charAt(i) - 'a']++;
+        int[] first = new int[26];
+        int[] last = new int[26];
+        for (int i = 0; i < 26; i++) {
+            first[i] = -1;
+            last[i] = -1;
         }
-
-        Set<String> uniquePalindromes = new HashSet<>();
-
-        // Iterate through the string
         for (int i = 0; i < n; i++) {
-            char center = s.charAt(i);
-            rightCount[center - 'a']--;
-
-            // Check for palindromes with `center` as the middle character
-            for (int ch = 0; ch < 26; ch++) {
-                if (leftCount[ch] > 0 && rightCount[ch] > 0) {
-                    String palindrome = "" + (char) ('a' + ch) + center + (char) ('a' + ch);
-                    uniquePalindromes.add(palindrome);
+            int c = s.charAt(i) - 'a';
+            if (first[c] == -1) first[c] = i;
+            last[c] = i;
+        }
+        int ans = 0;
+        for (int c = 0; c < 26; c++) {
+            if (first[c] != -1 && last[c] - first[c] > 1) {
+                int mask = 0;
+                for (int i = first[c] + 1; i < last[c]; i++) {
+                    mask |= 1 << (s.charAt(i) - 'a');
                 }
+                ans += Integer.bitCount(mask);
             }
-
-            leftCount[center - 'a']++;
         }
-
-        return uniquePalindromes.size();
+        return ans;
     }
 }
