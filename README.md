@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1022,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1304-longest-happy-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1502-construct-k-palindrome-strings) |
@@ -1126,6 +1129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1170-shortest-common-supersequence) |
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
