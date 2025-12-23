@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-two-best-non-overlapping-events) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2107-find-unique-binary-string) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2047-find-a-peak-element-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1193,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1352,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-two-best-non-overlapping-events) |
 | [2164-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
