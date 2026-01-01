@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0075-sort-colors) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0223-rectangle-area) |
