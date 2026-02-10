@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2448-count-number-of-bad-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2485-find-the-pivot-integer) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -1443,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2465-shifting-letters-ii) |
+| [2485-find-the-pivot-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2485-find-the-pivot-integer) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2618-maximize-the-minimum-powered-city) |
