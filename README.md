@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0496-next-greater-element-i) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0594-longest-harmonious-subsequence) |
@@ -845,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0273-integer-to-english-words) |
+| [0389-find-the-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
@@ -1481,6 +1484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1435-xor-queries-of-a-subarray) |
