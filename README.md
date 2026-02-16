@@ -1487,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0342-power-of-four) |
@@ -1754,6 +1755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1382-balance-a-binary-search-tree) |
