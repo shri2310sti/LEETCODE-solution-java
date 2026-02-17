@@ -1376,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0040-combination-sum-ii) |
+| [0401-binary-watch](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1160-letter-tile-possibilities) |
@@ -1492,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1435-xor-queries-of-a-subarray) |
