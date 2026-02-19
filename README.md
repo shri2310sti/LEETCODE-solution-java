@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0868-push-dominoes) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0664-strange-printer) |
+| [0696-count-binary-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0696-count-binary-substrings) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0812-rotate-string) |
