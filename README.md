@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0761-special-binary-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1018-largest-perimeter-triangle) |
@@ -859,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0696-count-binary-substrings) |
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
+| [0761-special-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0868-push-dominoes) |
@@ -1761,6 +1763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3721-longest-balanced-subarray-ii) |
