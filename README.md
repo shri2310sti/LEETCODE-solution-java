@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0830-largest-triangle-area) |
@@ -1499,6 +1500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0476-number-complement) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
