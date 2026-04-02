@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3430-count-days-without-meetings) |
@@ -1137,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1321,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
