@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0874-walking-robot-simulation) |
 | [0906-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0906-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1642-water-bottles) |
