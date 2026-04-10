@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1768-merge-strings-alternately](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1972-rotating-the-box) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1818-maximum-score-from-removing-substrings) |
