@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3748-sort-matrix-by-diagonals) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3827-implement-router) |
