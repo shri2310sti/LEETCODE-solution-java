@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3748-sort-matrix-by-diagonals) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3791-fruits-into-baskets-iii) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3797-design-spreadsheet](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3830-find-closest-person](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
