@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2448-count-number-of-bad-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2465-shifting-letters-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2465-shifting-letters-ii) |
@@ -1678,6 +1680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
