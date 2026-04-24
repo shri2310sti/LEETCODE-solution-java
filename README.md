@@ -1001,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2833-furthest-point-from-origin](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1413,6 +1414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2833-furthest-point-from-origin) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
