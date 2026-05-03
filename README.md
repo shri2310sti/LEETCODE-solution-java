@@ -936,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0726-number-of-atoms) |
 | [0761-special-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1859,6 +1860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2292-counting-words-with-a-given-prefix) |
