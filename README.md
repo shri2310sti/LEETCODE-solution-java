@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1861-rotating-the-box](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1768-merge-strings-alternately](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1768-merge-strings-alternately) |
+| [1861-rotating-the-box](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1861-rotating-the-box) |
 | [1894-merge-strings-alternately](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1972-rotating-the-box) |
@@ -1174,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1628-count-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1861-rotating-the-box](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1861-rotating-the-box) |
 | [1876-map-of-highest-peak](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1876-map-of-highest-peak) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1970-last-day-where-you-can-still-cross) |
