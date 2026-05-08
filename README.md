@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3639-zero-array-transformation-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3643-zero-array-transformation-ii) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3678-design-task-manager](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3713-longest-balanced-substring-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3721-longest-balanced-subarray-ii) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1504,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3863-power-grid-maintenance) |
@@ -1690,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3001-apply-operations-to-maximize-score) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Brainteaser
 |  |
 | ------- |
