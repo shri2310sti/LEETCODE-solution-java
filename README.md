@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3001-apply-operations-to-maximize-score) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2887-sort-vowels-in-a-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1742,6 +1745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
