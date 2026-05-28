@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3093-longest-common-suffix-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1045,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2887-sort-vowels-in-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1757,6 +1759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3093-longest-common-suffix-queries) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
