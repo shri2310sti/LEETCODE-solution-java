@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2107-find-unique-binary-string) |
+| [2126-destroying-asteroids](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2145-grid-game) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2164-two-best-non-overlapping-events) |
@@ -1280,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
