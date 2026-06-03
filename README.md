@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3639-zero-array-transformation-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3643-zero-array-transformation-ii) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3195-separate-black-and-white-balls) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -1319,6 +1323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
