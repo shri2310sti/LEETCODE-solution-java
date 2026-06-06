@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2573-find-the-string-with-lcp](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2574-left-and-right-sum-differences) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2615-sum-of-distances) |
@@ -1655,6 +1656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2485-find-the-pivot-integer) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2529-range-product-queries-of-powers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2625-increment-submatrices-by-one) |
