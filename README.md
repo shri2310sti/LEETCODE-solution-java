@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2145-grid-game](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2164-two-best-non-overlapping-events) |
 | [2169-simple-bank-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2169-simple-bank-system) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1972-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
