@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3689-maximum-total-subarray-value-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1335,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3689-maximum-total-subarray-value-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
