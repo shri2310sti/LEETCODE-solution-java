@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1006-vowel-spellchecker) |
 | [1160-letter-tile-possibilities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1170-shortest-common-supersequence) |
+| [1189-maximum-number-of-balloons](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1189-maximum-number-of-balloons) |
 | [1197-parsing-a-boolean-expression](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1197-parsing-a-boolean-expression) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1160-letter-tile-possibilities) |
+| [1189-maximum-number-of-balloons](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1396-count-servers-that-communicate) |
