@@ -25,13 +25,11 @@ class Solution {
         Stack <Character> stc = new Stack<>();
         
         while(!st.isEmpty()) stc.push(st.pop());
-        
-        int n = stc.size();
 
-        while(!stc.isEmpty() && stc.get(n-1) - '0' == 0){
-            stc.pop(); n--;
+        while(!stc.isEmpty() && stc.peek() == '0'){
+            stc.pop();
         } 
-        
+
         if(stc.isEmpty()) return "0";
 
         String ans = "";
