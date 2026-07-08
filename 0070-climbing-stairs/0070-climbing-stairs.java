@@ -1,17 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
-        if (n <= 2) return n; 
-        
-        int prev1 = 1; // Ways to climb 1 step
-        int prev2 = 2; // Ways to climb 2 steps
-        int current = 0;
-        
-        for (int i = 3; i <= n; i++) {
-            current = prev1 + prev2; // Ways to climb i steps
-            prev1 = prev2;           // Shift prev2 to prev1
-            prev2 = current;         // Shift current to prev2
+        int[] dp = new int[n + 1];
+        Arrays.fill(dp, -1);
+
+        // Base cases
+        dp[0] = 1;
+        dp[1] = 1;
+
+        // Fill dp array using bottom-up dynamic programming
+        for (int i = 2; i <= n; i++) {
+            dp[i] = dp[i - 1] + dp[i - 2];
         }
-        
-        return current;
+
+        // Print the nth Fibonacci number
+        return(dp[n]);
     }
+
 }
