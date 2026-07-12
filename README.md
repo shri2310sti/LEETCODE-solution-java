@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1306-jump-game-iii) |
 | [1325-path-with-maximum-probability](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1325-path-with-maximum-probability) |
+| [1331-rank-transform-of-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1331-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1340-jump-game-v](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1340-jump-game-v) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1331-rank-transform-of-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1364-tuple-with-same-product](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1340-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
