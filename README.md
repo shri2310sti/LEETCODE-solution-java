@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3488-closest-equal-element-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3614-process-string-with-special-operations-ii) |
@@ -1923,6 +1926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3454-separate-squares-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3737-count-subarrays-with-majority-element-i) |
