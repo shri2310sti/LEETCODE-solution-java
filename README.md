@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0498-diagonal-traverse) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0650-2-keys-keyboard) |
@@ -1491,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0664-strange-printer) |
@@ -1636,6 +1639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1826,6 +1830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
