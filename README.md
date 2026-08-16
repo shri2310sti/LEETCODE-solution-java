@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2023-design-movie-rental-system](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2048-build-array-from-permutation) |
@@ -944,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2032-largest-odd-number-in-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2050-count-good-numbers) |
@@ -1422,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1833-maximum-ice-cream-bars) |
 | [1917-maximum-average-pass-ratio](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1917-maximum-average-pass-ratio) |
+| [2029-stone-game-ix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2029-stone-game-ix) |
 | [2032-largest-odd-number-in-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2126-destroying-asteroids) |
@@ -1640,6 +1643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2029-stone-game-ix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1872,6 +1876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1240-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3462-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -2288,15 +2293,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
