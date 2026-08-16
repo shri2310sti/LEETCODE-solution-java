@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0735-asteroid-collision) |
@@ -1805,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1140-stone-game-ii) |
