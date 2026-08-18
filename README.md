@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3488-closest-equal-element-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3488-closest-equal-element-queries) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
