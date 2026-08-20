@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3001-apply-operations-to-maximize-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3093-longest-common-suffix-queries) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2751-robot-collisions) |
 | [2846-robot-collisions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2846-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3433-count-mentions-per-user](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
