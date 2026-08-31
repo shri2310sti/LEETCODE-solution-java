@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1484-linked-list-in-binary-tree) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2299-merge-nodes-in-between-zeros) |
