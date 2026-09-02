@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3863-power-grid-maintenance) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
