@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3863-power-grid-maintenance](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3863-power-grid-maintenance) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -1912,6 +1913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3903-smallest-stable-index-i](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
 | ------- |
