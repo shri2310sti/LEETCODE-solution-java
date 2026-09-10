@@ -1271,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1303,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1340,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2092-find-all-people-with-secret) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
