@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
@@ -1381,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0945-snakes-and-ladders) |
