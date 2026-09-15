@@ -637,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2551-apply-operations-to-an-array) |
@@ -1201,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -1490,6 +1492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1636,6 +1639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2554-minimum-total-distance-traveled](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2573-find-the-string-with-lcp) |
