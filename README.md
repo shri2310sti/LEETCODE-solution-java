@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1901,6 +1904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1871-jump-game-vii) |
@@ -2151,6 +2155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1871-jump-game-vii) |
