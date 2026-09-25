@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1006-vowel-spellchecker) |
+| [1096-brace-expansion-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1160-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1207-delete-nodes-and-return-forest) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1096-brace-expansion-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1331-rank-transform-of-an-array) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1002-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1096-brace-expansion-ii) |
 | [1197-parsing-a-boolean-expression](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1153,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1189-maximum-number-of-balloons) |
@@ -1777,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0945-snakes-and-ladders) |
+| [1096-brace-expansion-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1306-jump-game-iii) |
@@ -1828,6 +1833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0679-24-game) |
+| [1096-brace-expansion-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1096-brace-expansion-ii) |
 | [1160-letter-tile-possibilities](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1160-letter-tile-possibilities) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
