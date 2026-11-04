@@ -1,15 +1,19 @@
 class Solution {
-    public int maxArea(int[] nums) {
-        int i = 0; 
-        int j = nums.length-1;
-        int maxA = Integer.MIN_VALUE;
+    public int maxArea(int[] height) {
+        int l = 0, r = height.length-1;
+        int maxArea = 0;
 
-        while(i < j){
-            int area = Math.min(nums[i], nums[j]) * (j-i);
-            maxA = Math.max(maxA, area);
-            if(nums[i] < nums[j]) i++;
-            else j--;
+        while(l<r){
+
+            int len = Math.min(height[l],height[r]);
+            int width = r-l;
+
+            int area = len*width;
+
+            maxArea = Math.max(area, maxArea);
+            if(height[l] < height[r]) l++;
+            else r--;
         }
-        return maxA;
+        return maxArea;
     }
 }
