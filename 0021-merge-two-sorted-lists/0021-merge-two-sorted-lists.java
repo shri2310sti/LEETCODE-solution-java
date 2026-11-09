@@ -5,38 +5,54 @@
  *     ListNode next;
  *     ListNode() {}
  *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     ListNode(int val, ListNode next) {
+ *         this.val = val;
+ *         this.next = next;
+ *     }
  * }
  */
+
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode dummy = new ListNode(-1);
-        ListNode ans = dummy;
-        ListNode temp1 = list1, temp2 = list2;
-        if(list1 == null && list2 == null) return null;
 
-        while(temp1 != null && temp2 != null){
-            
-            if(temp1.val <= temp2.val){
-                dummy.next = temp1;
-                temp1 = temp1.next;
-                dummy = dummy.next;
-            } else{
-                dummy.next = temp2;
-                temp2 = temp2.next;
-                dummy = dummy.next;
+        // Handle empty lists
+        if(list1 == null) return list2;
+        if(list2 == null) return list1;
+
+        // Find the head of the merged list
+        ListNode head;
+
+        if(list1.val <= list2.val) {
+            head = list1;
+            list1 = list1.next;
+        } else {
+            head = list2;
+            list2 = list2.next;
+        }
+
+        ListNode temp = head;
+
+        // Merge both lists
+        while(list1 != null && list2 != null) {
+
+            if(list1.val <= list2.val) {
+                temp.next = list1;
+                list1 = list1.next;
+            } else {
+                temp.next = list2;
+                list2 = list2.next;
             }
+
+            temp = temp.next;
         }
-        while(temp1 != null){
-            dummy.next = temp1;
-            temp1 = temp1.next;
-            dummy = dummy.next;
+
+        // Attach remaining nodes
+        if(list1 != null) {
+            temp.next = list1;
+        } else {
+            temp.next = list2;
         }
-        while(temp2 != null){
-            dummy.next = temp2;
-            temp2 = temp2.next;
-            dummy = dummy.next;
-        }
-        return ans.next;
+
+        return head;
     }
 }
