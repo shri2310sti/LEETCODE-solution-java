@@ -14,13 +14,13 @@ public class Solution {
         ListNode tempA = headA, tempB = headB;
         while(tempA != tempB){
             if(tempA.next == null && tempB.next == null) return null;
+
             if(tempA.next == null) tempA = headB;
             else tempA = tempA.next;
 
             if(tempB.next == null) tempB = headA;
-            else tempB = tempB.next; 
+            else tempB = tempB.next;
         }
-        if(tempA.next == tempB.next) return tempA;
-        return null;
+        return tempA;
     }
 }
