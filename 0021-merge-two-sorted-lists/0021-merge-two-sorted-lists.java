@@ -5,54 +5,27 @@
  *     ListNode next;
  *     ListNode() {}
  *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) {
- *         this.val = val;
- *         this.next = next;
- *     }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-
-        // Handle empty lists
-        if(list1 == null) return list2;
-        if(list2 == null) return list1;
-
-        // Find the head of the merged list
-        ListNode head;
-
-        if(list1.val <= list2.val) {
-            head = list1;
-            list1 = list1.next;
-        } else {
-            head = list2;
-            list2 = list2.next;
-        }
-
-        ListNode temp = head;
-
-        // Merge both lists
-        while(list1 != null && list2 != null) {
-
-            if(list1.val <= list2.val) {
-                temp.next = list1;
-                list1 = list1.next;
-            } else {
-                temp.next = list2;
-                list2 = list2.next;
+        ListNode d = new ListNode(-1);
+        ListNode ans = d;
+        ListNode t1 = list1, t2 = list2;
+        while(t1 != null && t2 != null){
+            if(t1.val <= t2.val){
+                d.next = t1;
+                t1 = t1.next;
+                d = d.next;
+            }else {
+                d.next = t2;
+                t2 = t2.next;
+                d = d.next;
             }
-
-            temp = temp.next;
         }
-
-        // Attach remaining nodes
-        if(list1 != null) {
-            temp.next = list1;
-        } else {
-            temp.next = list2;
-        }
-
-        return head;
+        if(t1 != null) d.next = t1;
+        if(t2 != null) d.next = t2;
+        return ans.next;
     }
 }
