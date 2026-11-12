@@ -13,8 +13,9 @@ class Solution {
         ListNode d = new ListNode(-1);
         ListNode ans = d;
         ListNode t1 = list1, t2 = list2;
+
         while(t1 != null && t2 != null){
-            if(t1.val <= t2.val){
+            if(t1.val <= t2.val) {
                 d.next = t1;
                 t1 = t1.next;
                 d = d.next;
