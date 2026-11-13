@@ -14,7 +14,7 @@ class Solution {
         ListNode d = new ListNode(-1);
         ListNode ans = d;
         int carry = 0;
-        while(t1 != null || t2 != null){
+        while(t1 != null || t2 != null || carry != 0){
             int sum = ((t1!=null)?t1.val:0) + ((t2!=null)?t2.val:0) + carry;
             int digit = sum%10;
             carry = sum/10;
@@ -25,11 +25,11 @@ class Solution {
             if(t1!=null)t1=t1.next;
             if(t2!=null)t2=t2.next;
         }
-        if(carry != 0){
-            ListNode temp = new ListNode(carry);
-            d.next = temp;
-            d=d.next;
-        }
+        // if(carry != 0){
+        //     ListNode temp = new ListNode(carry);
+        //     d.next = temp;
+        //     d=d.next;
+        // }
         return ans.next;
     }
 }
