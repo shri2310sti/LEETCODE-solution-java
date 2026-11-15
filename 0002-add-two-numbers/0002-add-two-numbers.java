@@ -9,8 +9,7 @@
  * }
  */
 class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode t1 = l1, t2 = l2;
+    public ListNode addTwoNumbers(ListNode t1, ListNode t2) {
         int carry = 0;
         ListNode d = new ListNode (-1);
         ListNode ans = d;
