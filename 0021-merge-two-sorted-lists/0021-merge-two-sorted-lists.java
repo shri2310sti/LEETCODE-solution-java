@@ -9,10 +9,10 @@
  * }
  */
 class Solution {
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+    public ListNode mergeTwoLists(ListNode t1, ListNode t2) {
         ListNode d = new ListNode(-1);
         ListNode ans = d;
-        ListNode t1 = list1, t2 = list2;
+        
 
         while(t1 != null && t2 != null){
             if(t1.val <= t2.val) {
