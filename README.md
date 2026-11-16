@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0859-design-circular-deque) |
+| [0860-lemonade-change](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0860-lemonade-change) |
 | [0870-magic-squares-in-grid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0870-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0877-stone-game) |
@@ -1500,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0797-rabbits-in-forest) |
+| [0860-lemonade-change](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
