@@ -4,18 +4,15 @@ class Solution {
         Arrays.sort(s);
 
         int c = 0;
-        int j = 0;
-        for(int i = 0; i<g.length; i++){         
-            if(j<s.length && g[i] <= s[j]){
+        int j = 0; 
+        for(int i=0; i<g.length; i++){
+            if(j<s.length && g[i]<=s[j]){
                 c++; j++;
-            } 
-            else if(j<s.length && g[i] > s[j]) {
-                int sum = 0;
-                while(j<s.length && sum < g[i]){
-                    sum = s[j];
-                    j++;
+            } else {
+                while(j<s.length && s[j] < g[i]) j++;
+                if(j<s.length && g[i]<=s[j]){
+                    c++; j++;
                 }
-                if(g[i] <= sum ) c++;
             }
         }
         return c;
