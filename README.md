@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
@@ -1492,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0624-maximum-distance-in-arrays) |
@@ -1626,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
