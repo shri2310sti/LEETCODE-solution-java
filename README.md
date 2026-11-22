@@ -976,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0650-2-keys-keyboard) |
@@ -1643,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0509-fibonacci-number) |
 | [0650-2-keys-keyboard](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0678-valid-parenthesis-string) |
@@ -1805,6 +1807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -2103,6 +2106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0241-different-ways-to-add-parentheses) |
+| [0509-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1013-fibonacci-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1986-largest-color-value-in-a-directed-graph) |
