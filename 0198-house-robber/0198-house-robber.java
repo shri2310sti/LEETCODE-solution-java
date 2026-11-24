@@ -5,15 +5,15 @@ class Solution {
         return helper(nums, nums.length-1,dp);
     }
     int helper(int[] nums, int n, int[] dp){
-        if(n==0) return nums[n];
-        if(n<0) return 0;
-
-        if(dp[n] != -1) return dp[n];
-
-        int pick = nums[n] + helper(nums,n-2, dp);
-        int nonpick = 0 + helper(nums,n-1, dp);
+        dp[0] = nums[0];
         
-        return dp[n] = Math.max(pick, nonpick);
+        for(int i=1; i<nums.length; i++){
+            int pick = nums[i] + (i>1 ? dp[i-2]:0);
+            int nonpick = 0 + dp[i-1];
+            dp[i] = Math.max(pick, nonpick);
+        }
+        
+        return dp[n];
     }
 
 }
