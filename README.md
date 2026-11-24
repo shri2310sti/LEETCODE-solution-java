@@ -964,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0189-rotate-array) |
@@ -1631,6 +1632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0115-distinct-subsequences) |
@@ -2370,6 +2372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shri2310sti/LEETCODE-solution-java/tree/master/2324-find-triangular-sum-of-an-array) |
