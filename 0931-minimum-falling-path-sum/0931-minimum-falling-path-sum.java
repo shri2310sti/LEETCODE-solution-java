@@ -1,43 +1,32 @@
 class Solution {
     public int minFallingPathSum(int[][] matrix) {
-        int n = matrix.length;
+        int m = matrix.length;
+        int n = matrix[0].length;
+        int[][] dp = new int[m][n];
 
-        int[][] dp = new int[n + 1][n + 1];
+        for(int i=0; i<n; i++) Arrays.fill(dp[i],Integer.MAX_VALUE);
 
-        for(int i = 0; i <= n; i++) {
-            Arrays.fill(dp[i], Integer.MAX_VALUE);
+        int min = Integer.MAX_VALUE;
+        for(int i=0; i<n; i++){
+            min = Math.min(min, helper(matrix, m-1, i, dp));
         }
+        return min;
+    }
+    public int helper(int[][] matrix, int m, int n, int[][] dp){
+        if(m==0) return matrix[m][n];
+        if(dp[m][n] != Integer.MAX_VALUE) return dp[m][n];
 
-        for(int i = 0; i < n; i++) {
-            dp[n - 1][i] = matrix[n - 1][i];
-        }
+        int p1 = Integer.MAX_VALUE;
+        int p3 = Integer.MAX_VALUE;
 
-        for(int i = n - 2; i >= 0; i--) {
-            for(int j = n - 1; j >= 0; j--) {
-                int down = dp[i + 1][j];
+        if(n>0) p1 = matrix[m][n] + helper(matrix,m-1,n-1,dp);
 
-                int diagonalLeft = Integer.MAX_VALUE;
-                if(j > 0) diagonalLeft = dp[i + 1][j - 1];
+        int p2 = matrix[m][n] + helper(matrix,m-1,n,dp);
 
-                int diagonalRight = dp[i + 1][j + 1];
+        if(n < matrix.length-1) p3 = matrix[m][n] + helper(matrix,m-1,n+1,dp);
+        
+        int ans = Math.min(p1, (Math.min(p2,p3)));
 
-                int pathSum = Math.min(
-                    down,
-                    Math.min(diagonalLeft, diagonalRight)
-                );
-
-                dp[i][j] = pathSum == Integer.MAX_VALUE
-                    ? pathSum
-                    : matrix[i][j] + pathSum;
-            }
-        }
-
-        int minimum = Integer.MAX_VALUE;
-
-        for(int j = 0; j < n; j++) {
-            minimum = Math.min(minimum, dp[0][j]);
-        }
-
-        return minimum;
+        return dp[m][n] = ans;
     }
 }
