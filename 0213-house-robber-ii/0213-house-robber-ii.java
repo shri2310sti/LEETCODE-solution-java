@@ -1,18 +1,18 @@
 class Solution {
     public int rob(int[] nums) {
         if(nums.length == 1) return nums[0];
-        
+
         int[] dp = new int[nums.length-1];
         Arrays.fill(dp,-1);
 
         int[] arr = new int[nums.length-1];
         
         for(int i=0; i<arr.length; i++) arr[i] = nums[i];
-        int f = helper(arr,arr.length-1,dp);
+        int f = helper1(arr,arr.length-1,dp);
 
         Arrays.fill(dp,-1);
         for(int i=0; i<arr.length; i++) arr[i] = nums[i+1];
-        int s = helper(arr,arr.length-1,dp);
+        int s = helper1(arr,arr.length-1,dp);
 
         return  Math.max(f,s);
     }
