@@ -1,26 +1,17 @@
-import java.util.List;
-
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
-        if (triangle == null || triangle.size() == 0) {
-            return 0;
+        int[][] dp = new int[triangle.size()][];
+        for(int i=0; i<triangle.size(); i++){
+            dp[i] = new int[triangle.get(i).size()];
+            Arrays.fill(dp[i], Integer.MAX_VALUE);
         }
-        
-        // Initialize the DP array with the last row of the triangle
-        int n = triangle.size();
-        int[] dp = new int[n];
-        for (int i = 0; i < n; i++) {
-            dp[i] = triangle.get(n - 1).get(i);
-        }
-        
-        // Start from the second last row and move upwards
-        for (int row = n - 2; row >= 0; row--) {
-            for (int col = 0; col <= row; col++) {
-                dp[col] = triangle.get(row).get(col) + Math.min(dp[col], dp[col + 1]);
-            }
-        }
-        
-        // The top element now contains the minimum path sum
-        return dp[0];
+        return helper(triangle,0,0,dp);
+    }
+    int helper(List<List<Integer>> triangle, int n, int m, int[][] dp){
+        if(n==triangle.size()-1) return triangle.get(n).get(m);
+        if(dp[n][m] != Integer.MAX_VALUE) return dp[n][m];
+        int p1 = triangle.get(n).get(m) + helper(triangle,n+1, m,dp);
+        int p2 = triangle.get(n).get(m) + helper(triangle,n+1, m+1,dp);
+        return dp[n][m] = Math.min(p1,p2);
     }
 }
